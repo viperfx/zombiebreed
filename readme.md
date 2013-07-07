@@ -1,4 +1,4 @@
-#ZombieBreed - [Demo](http://viperfx.github.io)
+#ZombieBreed - [Demo](http://viperfx.github.io/zombiebreed)
 
 ##top down zombie shooter with impactjs, nodejs, socket.io
 
